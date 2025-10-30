@@ -1,3 +1,9 @@
+---
+title: "Hello world"
+author: "Srđan Đekić"
+date: "30. listopada 2025."
+---
+
 # Hello world
 Moj prvi github repozitorij
 
